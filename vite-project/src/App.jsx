@@ -7,7 +7,7 @@ import Home from "./pages/Home";
 import About from "./pages/About";
 import WhySolar from "./pages/WhySolar";
 import NovasunSolar from "./pages/NovasunSolar";
-import OurWorkflow from "./pages/OurWorkflow";
+import OurWorkflow from "./pages/OurWorkFlow";
 import SolarModule from "./pages/SolarModule";
 import FinancialAssistance from "./pages/FinancialAssistance";
 import Blogs from "./pages/Blogs";
